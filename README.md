@@ -1,0 +1,2 @@
+# InfoData
+Recapitulación de Información
